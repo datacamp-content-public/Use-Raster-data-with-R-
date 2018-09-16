@@ -1,5 +1,5 @@
 ---
-title: 'Template Chapter 1'
+title: 'Getting the data'
 description: 'This is a template chapter.'
 ---
 
